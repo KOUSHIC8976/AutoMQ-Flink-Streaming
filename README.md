@@ -66,6 +66,7 @@ Modern streaming architectures are moving toward the separation of compute and s
    python automq_producer.py
    python automq_processor.py
    ```
+ **Minio Credentials : minioadmin | minioadminpassword**
 ---
 
 ##  Demo
