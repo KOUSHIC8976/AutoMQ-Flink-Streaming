@@ -26,6 +26,7 @@ Modern streaming architectures are moving toward the separation of compute and s
 ---
 
 ##  Architecture & Tech Stack
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/8c0a2bf0-66b1-430b-843d-25c4a8e1b7a2" />
 
 1. **Ingestion Layer:** Python continuous telemetry simulator generating chaotic IoT JSON payloads.
 2. **Stateless Compute Layer:** **AutoMQ**, acting purely as a compute router with no local state.
